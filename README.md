@@ -15,7 +15,7 @@
 
 ## <span style="color: #2c3e50;" id="introduction">📖 Introduction</span>
 
-<span style="font-size: 1.2em;">ChatVerse is a real-time chat application that enables users to communicate with each other instantly. It leverages the power of modern web technologies to provide a seamless and interactive chatting experience.</span>
+<span style="font-size: 1.2em;">Chat~Thrill is a real-time chat application that enables users to communicate with each other instantly. It leverages the power of modern web technologies to provide a seamless and interactive chatting experience.</span>
 
 ## <span style="color: #2c3e50;" id="features">✨ Features</span>
 
